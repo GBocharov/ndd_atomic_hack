@@ -6,10 +6,10 @@ Python version 3.10 torch 2.0
 git clone {url}
 ```
 ```
-conda create -n hr_bot python==3.10
+conda create -n bot python==3.10
 ```
 ```
-conda activate hr_bot
+conda activate bot
 ```
 ```
 pip install -r requirements.txt
@@ -17,7 +17,7 @@ pip install -r requirements.txt
 # Ссылки
 Ссылка на screencast - 
 ```
-https://drive.google.com/file/d/1-r7eGjnZ9TE3D5mu3WpSCUtpb_5zOwYs/view?usp=sharing
+https://drive.google.com/file/d/1okumAmFpW07jy7hA6E5kThRHTA4AogCI/view
 ```
 Ссылка на тг бота - 
 ```
